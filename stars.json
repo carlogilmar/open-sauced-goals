@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "mcrumm/kino_telemetry",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "buzz-language/buzz",
-    "stargazers_count": 292,
-    "open_issues_count": 42,
-    "forks_count": 4
+    "stargazers_count": 422,
+    "open_issues_count": 45,
+    "forks_count": 5
   },
   {
     "full_name": "bitcrowd/carbonite",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 3754,
-    "open_issues_count": 55,
-    "forks_count": 150
+    "stargazers_count": 3945,
+    "open_issues_count": 62,
+    "forks_count": 153
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 1417,
-    "open_issues_count": 45,
-    "forks_count": 69
+    "stargazers_count": 2009,
+    "open_issues_count": 47,
+    "forks_count": 76
   },
   {
     "full_name": "lyriarte/sonic-pi-music",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "objecthub/swift-lispkit",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "Launch-X-Latam/MisionBackend",
-    "stargazers_count": 173,
+    "stargazers_count": 179,
     "open_issues_count": 0,
-    "forks_count": 147
+    "forks_count": 153
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15458,
-    "open_issues_count": 567,
-    "forks_count": 2823
+    "stargazers_count": 15479,
+    "open_issues_count": 570,
+    "forks_count": 2820
   },
   {
     "full_name": "kvakvs/beam-wisdoms",
@@ -63,7 +69,7 @@
     "full_name": "lubien/sorteios",
     "stargazers_count": 26,
     "open_issues_count": 7,
-    "forks_count": 13
+    "forks_count": 12
   },
   {
     "full_name": "mcrumm/req_sandbox",
@@ -93,16 +99,16 @@
     "full_name": "WhatsApp/tree-sitter-erlang",
     "stargazers_count": 49,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "tigerbeetledb/tigerbeetle",
-    "stargazers_count": 1463,
-    "open_issues_count": 31,
-    "forks_count": 69
+    "stargazers_count": 1482,
+    "open_issues_count": 39,
+    "forks_count": 70
   },
   {
-    "full_name": "zestcreative/elixirstream.dev",
+    "full_name": "zestcreative/elixirstream.dev-old",
     "stargazers_count": 20,
     "open_issues_count": 1,
     "forks_count": 1
@@ -123,7 +129,7 @@
     "full_name": "sheharyarn/memento",
     "stargazers_count": 692,
     "open_issues_count": 3,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "brainlid/pwa-bookit-sample",
@@ -140,7 +146,7 @@
   {
     "full_name": "maartenvanvliet/subscriptions-transport-ws",
     "stargazers_count": 20,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "Kr00lIX/assert_html",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
