@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "rdf-elixir/jsonld-ex",
+    "stargazers_count": 56,
+    "open_issues_count": 1,
+    "forks_count": 14
+  },
+  {
+    "full_name": "eigr/spawn",
+    "stargazers_count": 50,
+    "open_issues_count": 16,
+    "forks_count": 7
+  },
+  {
+    "full_name": "SferaDev/blocks",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "starship/starship",
-    "stargazers_count": 30945,
-    "open_issues_count": 469,
-    "forks_count": 1299
+    "stargazers_count": 31011,
+    "open_issues_count": 472,
+    "forks_count": 1303
   },
   {
     "full_name": "githubnext/blocks",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 7324,
-    "open_issues_count": 104,
-    "forks_count": 95
+    "stargazers_count": 7631,
+    "open_issues_count": 111,
+    "forks_count": 103
   },
   {
     "full_name": "aleklisi/AdventOfCode2022",
@@ -25,14 +43,14 @@
   },
   {
     "full_name": "podium/elixir-secure-coding",
-    "stargazers_count": 406,
+    "stargazers_count": 409,
     "open_issues_count": 29,
-    "forks_count": 64
+    "forks_count": 67
   },
   {
     "full_name": "swsheets/swsheets",
     "stargazers_count": 43,
-    "open_issues_count": 45,
+    "open_issues_count": 46,
     "forks_count": 17
   },
   {
@@ -43,27 +61,27 @@
   },
   {
     "full_name": "buzz-language/buzz",
-    "stargazers_count": 485,
+    "stargazers_count": 490,
     "open_issues_count": 45,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "bitcrowd/carbonite",
-    "stargazers_count": 70,
+    "stargazers_count": 73,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4143,
-    "open_issues_count": 71,
-    "forks_count": 155
+    "stargazers_count": 4198,
+    "open_issues_count": 69,
+    "forks_count": 157
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 2371,
+    "stargazers_count": 2459,
     "open_issues_count": 50,
-    "forks_count": 86
+    "forks_count": 88
   },
   {
     "full_name": "lyriarte/sonic-pi-music",
@@ -85,15 +103,15 @@
   },
   {
     "full_name": "Launch-X-Latam/MisionBackend",
-    "stargazers_count": 193,
+    "stargazers_count": 196,
     "open_issues_count": 0,
-    "forks_count": 186
+    "forks_count": 198
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15530,
-    "open_issues_count": 582,
-    "forks_count": 2823
+    "stargazers_count": 15554,
+    "open_issues_count": 581,
+    "forks_count": 2829
   },
   {
     "full_name": "kvakvs/beam-wisdoms",
@@ -115,7 +133,7 @@
   },
   {
     "full_name": "puemos/overbooked",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -133,15 +151,15 @@
   },
   {
     "full_name": "WhatsApp/tree-sitter-erlang",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 3
   },
   {
     "full_name": "tigerbeetledb/tigerbeetle",
-    "stargazers_count": 1517,
-    "open_issues_count": 45,
-    "forks_count": 73
+    "stargazers_count": 1525,
+    "open_issues_count": 47,
+    "forks_count": 74
   },
   {
     "full_name": "zestcreative/elixirstream.dev-old",
@@ -159,24 +177,6 @@
     "full_name": "ForzaElixir/rollbax",
     "stargazers_count": 242,
     "open_issues_count": 6,
-    "forks_count": 50
-  },
-  {
-    "full_name": "sheharyarn/memento",
-    "stargazers_count": 692,
-    "open_issues_count": 3,
-    "forks_count": 21
-  },
-  {
-    "full_name": "brainlid/pwa-bookit-sample",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "LivewareProblems/hyper",
-    "stargazers_count": 10,
-    "open_issues_count": 7,
-    "forks_count": 1
+    "forks_count": 49
   }
 ]
