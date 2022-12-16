@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "SerenityOS/serenity",
+    "stargazers_count": 23262,
+    "open_issues_count": 615,
+    "forks_count": 2483
+  },
+  {
+    "full_name": "vorce/kino_ecto",
+    "stargazers_count": 28,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "stackpath/backend-developer-tests",
+    "stargazers_count": 5,
+    "open_issues_count": 3,
+    "forks_count": 30
+  },
+  {
+    "full_name": "verse-lang/verse",
+    "stargazers_count": 47,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "eproxus/textual",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -25,31 +49,31 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 31144,
-    "open_issues_count": 472,
-    "forks_count": 1309
+    "stargazers_count": 31225,
+    "open_issues_count": 474,
+    "forks_count": 1314
   },
   {
     "full_name": "githubnext/blocks",
     "stargazers_count": 38,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 7948,
-    "open_issues_count": 125,
-    "forks_count": 114
+    "stargazers_count": 8045,
+    "open_issues_count": 130,
+    "forks_count": 116
   },
   {
     "full_name": "aleklisi/AdventOfCode2022",
-    "stargazers_count": 3,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "podium/elixir-secure-coding",
-    "stargazers_count": 423,
+    "stargazers_count": 426,
     "open_issues_count": 29,
     "forks_count": 70
   },
@@ -67,27 +91,27 @@
   },
   {
     "full_name": "buzz-language/buzz",
-    "stargazers_count": 499,
-    "open_issues_count": 47,
+    "stargazers_count": 502,
+    "open_issues_count": 49,
     "forks_count": 6
   },
   {
     "full_name": "bitcrowd/carbonite",
-    "stargazers_count": 74,
+    "stargazers_count": 73,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4289,
-    "open_issues_count": 63,
-    "forks_count": 159
+    "stargazers_count": 4333,
+    "open_issues_count": 70,
+    "forks_count": 161
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 3836,
+    "stargazers_count": 4044,
     "open_issues_count": 36,
-    "forks_count": 158
+    "forks_count": 209
   },
   {
     "full_name": "lyriarte/sonic-pi-music",
@@ -103,25 +127,25 @@
   },
   {
     "full_name": "objecthub/swift-lispkit",
-    "stargazers_count": 316,
+    "stargazers_count": 318,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "Launch-X-Latam/MisionBackend",
-    "stargazers_count": 203,
+    "stargazers_count": 210,
     "open_issues_count": 1,
-    "forks_count": 218
+    "forks_count": 229
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15611,
-    "open_issues_count": 588,
-    "forks_count": 2837
+    "stargazers_count": 15627,
+    "open_issues_count": 592,
+    "forks_count": 2841
   },
   {
     "full_name": "kvakvs/beam-wisdoms",
-    "stargazers_count": 502,
+    "stargazers_count": 505,
     "open_issues_count": 4,
     "forks_count": 30
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 3,
     "forks_count": 5
-  },
-  {
-    "full_name": "WhatsApp/tree-sitter-erlang",
-    "stargazers_count": 51,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "tigerbeetledb/tigerbeetle",
-    "stargazers_count": 1536,
-    "open_issues_count": 54,
-    "forks_count": 75
-  },
-  {
-    "full_name": "zestcreative/elixirstream.dev-old",
-    "stargazers_count": 20,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "well-ironed/liveness",
-    "stargazers_count": 40,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
