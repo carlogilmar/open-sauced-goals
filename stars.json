@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "visualpartnership/visual-thinking-workshop",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "erleans/erleans",
     "stargazers_count": 256,
     "open_issues_count": 11,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "lasp-lang/partisan",
-    "stargazers_count": 722,
-    "open_issues_count": 18,
+    "stargazers_count": 724,
+    "open_issues_count": 19,
     "forks_count": 52
   },
   {
     "full_name": "SerenityOS/serenity",
-    "stargazers_count": 23316,
-    "open_issues_count": 642,
-    "forks_count": 2489
+    "stargazers_count": 23347,
+    "open_issues_count": 646,
+    "forks_count": 2499
   },
   {
     "full_name": "vorce/kino_ecto",
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "verse-lang/verse",
-    "stargazers_count": 76,
+    "stargazers_count": 84,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "eigr/spawn",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 16,
     "forks_count": 7
   },
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 31330,
-    "open_issues_count": 476,
+    "stargazers_count": 31411,
+    "open_issues_count": 478,
     "forks_count": 1319
   },
   {
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 8188,
-    "open_issues_count": 127,
-    "forks_count": 116
+    "stargazers_count": 9026,
+    "open_issues_count": 134,
+    "forks_count": 128
   },
   {
     "full_name": "aleklisi/AdventOfCode2022",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "podium/elixir-secure-coding",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 29,
     "forks_count": 71
   },
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "buzz-language/buzz",
-    "stargazers_count": 505,
-    "open_issues_count": 49,
+    "stargazers_count": 508,
+    "open_issues_count": 50,
     "forks_count": 6
   },
   {
@@ -115,19 +121,19 @@
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4411,
-    "open_issues_count": 71,
-    "forks_count": 160
+    "stargazers_count": 4424,
+    "open_issues_count": 70,
+    "forks_count": 164
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 4220,
-    "open_issues_count": 38,
-    "forks_count": 215
+    "stargazers_count": 4928,
+    "open_issues_count": 36,
+    "forks_count": 302
   },
   {
     "full_name": "lyriarte/sonic-pi-music",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -147,13 +153,13 @@
     "full_name": "Launch-X-Latam/MisionBackend",
     "stargazers_count": 210,
     "open_issues_count": 1,
-    "forks_count": 237
+    "forks_count": 241
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15653,
-    "open_issues_count": 596,
-    "forks_count": 2848
+    "stargazers_count": 15662,
+    "open_issues_count": 601,
+    "forks_count": 2855
   },
   {
     "full_name": "kvakvs/beam-wisdoms",
@@ -170,12 +176,6 @@
   {
     "full_name": "mcrumm/req_sandbox",
     "stargazers_count": 23,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "puemos/overbooked",
-    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 0
   }
