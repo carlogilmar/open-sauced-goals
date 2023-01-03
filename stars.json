@@ -1,27 +1,27 @@
 [
   {
     "full_name": "visualpartnership/visual-thinking-workshop",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "erleans/erleans",
-    "stargazers_count": 256,
+    "stargazers_count": 257,
     "open_issues_count": 11,
     "forks_count": 25
   },
   {
     "full_name": "lasp-lang/partisan",
-    "stargazers_count": 726,
+    "stargazers_count": 727,
     "open_issues_count": 15,
     "forks_count": 52
   },
   {
     "full_name": "SerenityOS/serenity",
-    "stargazers_count": 23418,
-    "open_issues_count": 653,
-    "forks_count": 2499
+    "stargazers_count": 23443,
+    "open_issues_count": 645,
+    "forks_count": 2506
   },
   {
     "full_name": "vorce/kino_ecto",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "verse-lang/verse",
-    "stargazers_count": 94,
+    "stargazers_count": 96,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -50,8 +50,8 @@
   {
     "full_name": "rdf-elixir/jsonld-ex",
     "stargazers_count": 57,
-    "open_issues_count": 2,
-    "forks_count": 14
+    "open_issues_count": 3,
+    "forks_count": 15
   },
   {
     "full_name": "eigr/spawn",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 31573,
-    "open_issues_count": 470,
-    "forks_count": 1339
+    "stargazers_count": 31653,
+    "open_issues_count": 463,
+    "forks_count": 1340
   },
   {
     "full_name": "githubnext/blocks",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 9315,
-    "open_issues_count": 134,
-    "forks_count": 137
+    "stargazers_count": 9442,
+    "open_issues_count": 149,
+    "forks_count": 143
   },
   {
     "full_name": "aleklisi/AdventOfCode2022",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "podium/elixir-secure-coding",
-    "stargazers_count": 436,
-    "open_issues_count": 29,
+    "stargazers_count": 437,
+    "open_issues_count": 30,
     "forks_count": 73
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "buzz-language/buzz",
-    "stargazers_count": 509,
+    "stargazers_count": 510,
     "open_issues_count": 55,
     "forks_count": 6
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4457,
-    "open_issues_count": 82,
-    "forks_count": 166
+    "stargazers_count": 4486,
+    "open_issues_count": 80,
+    "forks_count": 169
   },
   {
     "full_name": "teaxyz/cli",
-    "stargazers_count": 5054,
-    "open_issues_count": 36,
-    "forks_count": 331
+    "stargazers_count": 5057,
+    "open_issues_count": 35,
+    "forks_count": 333
   },
   {
     "full_name": "lyriarte/sonic-pi-music",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "objecthub/swift-lispkit",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -153,17 +153,17 @@
     "full_name": "Launch-X-Latam/MisionBackend",
     "stargazers_count": 212,
     "open_issues_count": 1,
-    "forks_count": 250
+    "forks_count": 254
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15698,
-    "open_issues_count": 610,
-    "forks_count": 2859
+    "stargazers_count": 15716,
+    "open_issues_count": 614,
+    "forks_count": 2862
   },
   {
     "full_name": "kvakvs/beam-wisdoms",
-    "stargazers_count": 507,
+    "stargazers_count": 508,
     "open_issues_count": 4,
     "forks_count": 30
   },
@@ -171,7 +171,7 @@
     "full_name": "lubien/sorteios",
     "stargazers_count": 27,
     "open_issues_count": 7,
-    "forks_count": 12
+    "forks_count": 11
   },
   {
     "full_name": "mcrumm/req_sandbox",
