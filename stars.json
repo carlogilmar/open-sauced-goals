@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "Strech/avrora",
+    "stargazers_count": 77,
+    "open_issues_count": 5,
+    "forks_count": 25
+  },
+  {
+    "full_name": "zven21/turbo_ecto",
+    "stargazers_count": 63,
+    "open_issues_count": 9,
+    "forks_count": 14
+  },
+  {
+    "full_name": "sharkdp/hyperfine",
+    "stargazers_count": 14316,
+    "open_issues_count": 39,
+    "forks_count": 257
+  },
+  {
     "full_name": "thoughtbot/bamboo",
-    "stargazers_count": 1833,
+    "stargazers_count": 1834,
     "open_issues_count": 37,
     "forks_count": 326
   },
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "kafkaex/kafka_ex",
-    "stargazers_count": 550,
+    "stargazers_count": 551,
     "open_issues_count": 41,
     "forks_count": 156
   },
@@ -79,9 +97,9 @@
   },
   {
     "full_name": "toblotron/praxis-ide",
-    "stargazers_count": 208,
+    "stargazers_count": 214,
     "open_issues_count": 3,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "elixir-sqlite/ecto_sqlite3",
@@ -91,9 +109,9 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 31018,
-    "open_issues_count": 417,
-    "forks_count": 4577
+    "stargazers_count": 31037,
+    "open_issues_count": 414,
+    "forks_count": 4586
   },
   {
     "full_name": "PragTob/minimal_cowboy_tester",
@@ -103,7 +121,7 @@
   },
   {
     "full_name": "gordalina/hush",
-    "stargazers_count": 105,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -133,13 +151,13 @@
   },
   {
     "full_name": "WhatsApp/proxy",
-    "stargazers_count": 781,
-    "open_issues_count": 33,
+    "stargazers_count": 821,
+    "open_issues_count": 32,
     "forks_count": 135
   },
   {
     "full_name": "whatyouhide/protohackers_in_elixir",
-    "stargazers_count": 17,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 259,
     "open_issues_count": 11,
     "forks_count": 25
-  },
-  {
-    "full_name": "lasp-lang/partisan",
-    "stargazers_count": 730,
-    "open_issues_count": 15,
-    "forks_count": 52
-  },
-  {
-    "full_name": "SerenityOS/serenity",
-    "stargazers_count": 23603,
-    "open_issues_count": 629,
-    "forks_count": 2523
-  },
-  {
-    "full_name": "vorce/kino_ecto",
-    "stargazers_count": 34,
-    "open_issues_count": 3,
-    "forks_count": 3
   }
 ]
