@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "peburrows/kane",
+    "stargazers_count": 97,
+    "open_issues_count": 10,
+    "forks_count": 42
+  },
+  {
+    "full_name": "whatyouhide/redix",
+    "stargazers_count": 986,
+    "open_issues_count": 0,
+    "forks_count": 113
+  },
+  {
+    "full_name": "HashNuke/hound",
+    "stargazers_count": 1318,
+    "open_issues_count": 84,
+    "forks_count": 143
+  },
+  {
+    "full_name": "uwiger/gproc",
+    "stargazers_count": 1024,
+    "open_issues_count": 42,
+    "forks_count": 229
+  },
+  {
     "full_name": "carlogilmar/Jenkins-Docker-CI-Book",
     "stargazers_count": 10,
     "open_issues_count": 0,
@@ -13,8 +37,8 @@
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 10744,
-    "open_issues_count": 959,
+    "stargazers_count": 10799,
+    "open_issues_count": 972,
     "forks_count": 154
   },
   {
@@ -25,21 +49,21 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 18511,
-    "open_issues_count": 997,
-    "forks_count": 1243
+    "stargazers_count": 18627,
+    "open_issues_count": 1009,
+    "forks_count": 1252
   },
   {
     "full_name": "lewish/asciiflow",
-    "stargazers_count": 3477,
+    "stargazers_count": 3488,
     "open_issues_count": 64,
     "forks_count": 294
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 2201,
+    "stargazers_count": 2210,
     "open_issues_count": 47,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "samuelgoto/typograms",
@@ -73,13 +97,13 @@
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 14472,
-    "open_issues_count": 40,
+    "stargazers_count": 14524,
+    "open_issues_count": 41,
     "forks_count": 258
   },
   {
     "full_name": "thoughtbot/bamboo",
-    "stargazers_count": 1834,
+    "stargazers_count": 1836,
     "open_issues_count": 38,
     "forks_count": 326
   },
@@ -145,37 +169,13 @@
   },
   {
     "full_name": "kafkaex/kafka_ex",
-    "stargazers_count": 551,
+    "stargazers_count": 552,
     "open_issues_count": 41,
     "forks_count": 157
   },
   {
     "full_name": "carlogilmar/git_exploring",
     "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "toblotron/praxis-ide",
-    "stargazers_count": 217,
-    "open_issues_count": 5,
-    "forks_count": 8
-  },
-  {
-    "full_name": "elixir-sqlite/ecto_sqlite3",
-    "stargazers_count": 195,
-    "open_issues_count": 14,
-    "forks_count": 26
-  },
-  {
-    "full_name": "cli/cli",
-    "stargazers_count": 31116,
-    "open_issues_count": 411,
-    "forks_count": 4617
-  },
-  {
-    "full_name": "PragTob/minimal_cowboy_tester",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
