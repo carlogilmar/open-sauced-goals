@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "PJUllrich/live_ex",
+    "stargazers_count": 57,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "absinthe-graphql/absinthe_phoenix",
+    "stargazers_count": 278,
+    "open_issues_count": 25,
+    "forks_count": 75
+  },
+  {
     "full_name": "peburrows/kane",
     "stargazers_count": 97,
     "open_issues_count": 10,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "whatyouhide/redix",
-    "stargazers_count": 986,
+    "stargazers_count": 987,
     "open_issues_count": 0,
     "forks_count": 113
   },
@@ -15,7 +27,7 @@
     "full_name": "HashNuke/hound",
     "stargazers_count": 1318,
     "open_issues_count": 84,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "uwiger/gproc",
@@ -33,13 +45,13 @@
     "full_name": "spockframework/spock-example",
     "stargazers_count": 718,
     "open_issues_count": 6,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 10799,
-    "open_issues_count": 972,
-    "forks_count": 154
+    "stargazers_count": 10906,
+    "open_issues_count": 981,
+    "forks_count": 157
   },
   {
     "full_name": "Adzz/ecto_morph",
@@ -49,20 +61,20 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 18627,
-    "open_issues_count": 1009,
-    "forks_count": 1252
+    "stargazers_count": 18702,
+    "open_issues_count": 1001,
+    "forks_count": 1258
   },
   {
     "full_name": "lewish/asciiflow",
-    "stargazers_count": 3488,
+    "stargazers_count": 3497,
     "open_issues_count": 64,
-    "forks_count": 294
+    "forks_count": 295
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 2210,
-    "open_issues_count": 47,
+    "stargazers_count": 2216,
+    "open_issues_count": 45,
     "forks_count": 86
   },
   {
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "ArthurSonzogni/Diagon",
-    "stargazers_count": 1079,
+    "stargazers_count": 1083,
     "open_issues_count": 14,
     "forks_count": 48
   },
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "Strech/avrora",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 5,
     "forks_count": 25
   },
@@ -93,18 +105,18 @@
     "full_name": "zven21/turbo_ecto",
     "stargazers_count": 63,
     "open_issues_count": 9,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 14524,
-    "open_issues_count": 41,
-    "forks_count": 258
+    "stargazers_count": 14594,
+    "open_issues_count": 42,
+    "forks_count": 260
   },
   {
     "full_name": "thoughtbot/bamboo",
     "stargazers_count": 1836,
-    "open_issues_count": 38,
+    "open_issues_count": 39,
     "forks_count": 326
   },
   {
@@ -127,7 +139,7 @@
   },
   {
     "full_name": "access-company/antikythera",
-    "stargazers_count": 175,
+    "stargazers_count": 174,
     "open_issues_count": 4,
     "forks_count": 17
   },
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "carusso/codec",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "Wukix/LambdaLite",
-    "stargazers_count": 398,
+    "stargazers_count": 397,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 10
-  },
-  {
-    "full_name": "kafkaex/kafka_ex",
-    "stargazers_count": 552,
-    "open_issues_count": 41,
-    "forks_count": 157
-  },
-  {
-    "full_name": "carlogilmar/git_exploring",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
