@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "felt/ultimate-elixir-ci",
+    "stargazers_count": 72,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "headwayio/lights-out",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 2881,
-    "open_issues_count": 9,
-    "forks_count": 79
+    "stargazers_count": 2958,
+    "open_issues_count": 7,
+    "forks_count": 85
   },
   {
     "full_name": "jmforsythe/Git-Heat-Map",
-    "stargazers_count": 814,
-    "open_issues_count": 6,
+    "stargazers_count": 838,
+    "open_issues_count": 2,
     "forks_count": 35
   },
   {
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "peburrows/kane",
-    "stargazers_count": 97,
+    "stargazers_count": 96,
     "open_issues_count": 10,
     "forks_count": 42
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "uwiger/gproc",
-    "stargazers_count": 1024,
+    "stargazers_count": 1025,
     "open_issues_count": 42,
     "forks_count": 229
   },
@@ -63,13 +69,13 @@
     "full_name": "spockframework/spock-example",
     "stargazers_count": 718,
     "open_issues_count": 6,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 10984,
-    "open_issues_count": 990,
-    "forks_count": 159
+    "stargazers_count": 11046,
+    "open_issues_count": 986,
+    "forks_count": 161
   },
   {
     "full_name": "Adzz/ecto_morph",
@@ -79,19 +85,19 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 18773,
-    "open_issues_count": 1021,
-    "forks_count": 1282
+    "stargazers_count": 18850,
+    "open_issues_count": 1016,
+    "forks_count": 1291
   },
   {
     "full_name": "lewish/asciiflow",
-    "stargazers_count": 3511,
+    "stargazers_count": 3520,
     "open_issues_count": 65,
     "forks_count": 296
   },
   {
     "full_name": "mark-when/markwhen",
-    "stargazers_count": 2223,
+    "stargazers_count": 2227,
     "open_issues_count": 46,
     "forks_count": 86
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "ArthurSonzogni/Diagon",
-    "stargazers_count": 1085,
+    "stargazers_count": 1087,
     "open_issues_count": 14,
     "forks_count": 48
   },
@@ -111,7 +117,7 @@
     "full_name": "dashbitco/broadway_kafka",
     "stargazers_count": 186,
     "open_issues_count": 7,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "Strech/avrora",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 14690,
-    "open_issues_count": 43,
+    "stargazers_count": 14717,
+    "open_issues_count": 42,
     "forks_count": 260
   },
   {
     "full_name": "thoughtbot/bamboo",
-    "stargazers_count": 1838,
+    "stargazers_count": 1840,
     "open_issues_count": 39,
     "forks_count": 326
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "access-company/antikythera",
-    "stargazers_count": 174,
+    "stargazers_count": 176,
     "open_issues_count": 4,
     "forks_count": 17
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "ParaPhraseAGH/erlang-mas",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 4
   }
 ]
