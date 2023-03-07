@@ -1,9 +1,51 @@
 [
   {
+    "full_name": "excalidraw/excalidraw",
+    "stargazers_count": 42759,
+    "open_issues_count": 973,
+    "forks_count": 3610
+  },
+  {
+    "full_name": "bigardone/live_view_patterns",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "elixir-nx/bumblebee",
+    "stargazers_count": 679,
+    "open_issues_count": 26,
+    "forks_count": 30
+  },
+  {
+    "full_name": "sockbot/elixir-starter-battlesnake",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "elixir-nx/tokenizers",
+    "stargazers_count": 54,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "Allyedge/allydb",
+    "stargazers_count": 29,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "gm3dmo/the-power",
+    "stargazers_count": 71,
+    "open_issues_count": 11,
+    "forks_count": 12
+  },
+  {
     "full_name": "drobakowski/awesome-erlang",
-    "stargazers_count": 1482,
+    "stargazers_count": 1483,
     "open_issues_count": 23,
-    "forks_count": 205
+    "forks_count": 204
   },
   {
     "full_name": "milmazz/dist_sys",
@@ -26,7 +68,7 @@
   {
     "full_name": "ExHammer/hammer-backend-redis",
     "stargazers_count": 26,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 27
   },
   {
@@ -38,18 +80,18 @@
   {
     "full_name": "emadalam/mahaul",
     "stargazers_count": 18,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "titzer/virgil",
-    "stargazers_count": 729,
+    "stargazers_count": 728,
     "open_issues_count": 24,
     "forks_count": 19
   },
   {
     "full_name": "caspg/made-with-liveview",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -57,7 +99,7 @@
     "full_name": "commanded/eventstore",
     "stargazers_count": 933,
     "open_issues_count": 21,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "srowley/ggity",
@@ -73,20 +115,20 @@
   },
   {
     "full_name": "LivewareProblems/Orion",
-    "stargazers_count": 95,
+    "stargazers_count": 98,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "Appliscale/xprof",
     "stargazers_count": 267,
-    "open_issues_count": 50,
+    "open_issues_count": 51,
     "forks_count": 30
   },
   {
     "full_name": "americanexpress/jest-image-snapshot",
-    "stargazers_count": 3578,
-    "open_issues_count": 23,
+    "stargazers_count": 3579,
+    "open_issues_count": 24,
     "forks_count": 204
   },
   {
@@ -97,13 +139,13 @@
   },
   {
     "full_name": "dwyl/mvp",
-    "stargazers_count": 60,
-    "open_issues_count": 27,
+    "stargazers_count": 59,
+    "open_issues_count": 30,
     "forks_count": 2
   },
   {
     "full_name": "felt/ultimate-elixir-ci",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -115,14 +157,14 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 3244,
+    "stargazers_count": 3268,
     "open_issues_count": 5,
     "forks_count": 92
   },
   {
     "full_name": "jmforsythe/Git-Heat-Map",
-    "stargazers_count": 913,
-    "open_issues_count": 3,
+    "stargazers_count": 918,
+    "open_issues_count": 2,
     "forks_count": 38
   },
   {
@@ -136,47 +178,5 @@
     "stargazers_count": 278,
     "open_issues_count": 24,
     "forks_count": 75
-  },
-  {
-    "full_name": "peburrows/kane",
-    "stargazers_count": 96,
-    "open_issues_count": 10,
-    "forks_count": 42
-  },
-  {
-    "full_name": "whatyouhide/redix",
-    "stargazers_count": 989,
-    "open_issues_count": 0,
-    "forks_count": 115
-  },
-  {
-    "full_name": "HashNuke/hound",
-    "stargazers_count": 1320,
-    "open_issues_count": 84,
-    "forks_count": 144
-  },
-  {
-    "full_name": "uwiger/gproc",
-    "stargazers_count": 1029,
-    "open_issues_count": 42,
-    "forks_count": 229
-  },
-  {
-    "full_name": "carlogilmar/Jenkins-Docker-CI-Book",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "spockframework/spock-example",
-    "stargazers_count": 723,
-    "open_issues_count": 7,
-    "forks_count": 497
-  },
-  {
-    "full_name": "warpdotdev/Warp",
-    "stargazers_count": 11525,
-    "open_issues_count": 1035,
-    "forks_count": 166
   }
 ]
