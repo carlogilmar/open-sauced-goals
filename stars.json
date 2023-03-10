@@ -1,9 +1,75 @@
 [
   {
+    "full_name": "clojerl/clojerl",
+    "stargazers_count": 1589,
+    "open_issues_count": 8,
+    "forks_count": 36
+  },
+  {
+    "full_name": "lfe/lfe",
+    "stargazers_count": 2157,
+    "open_issues_count": 39,
+    "forks_count": 134
+  },
+  {
+    "full_name": "artyom-poptsov/guile-ssh",
+    "stargazers_count": 50,
+    "open_issues_count": 3,
+    "forks_count": 12
+  },
+  {
+    "full_name": "atomvm/ExAtomVM",
+    "stargazers_count": 9,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "atomvm/AtomVM",
+    "stargazers_count": 1120,
+    "open_issues_count": 71,
+    "forks_count": 70
+  },
+  {
+    "full_name": "abo-abo/lispy",
+    "stargazers_count": 1099,
+    "open_issues_count": 140,
+    "forks_count": 120
+  },
+  {
+    "full_name": "bbatsov/clojure-style-guide",
+    "stargazers_count": 3922,
+    "open_issues_count": 42,
+    "forks_count": 276
+  },
+  {
+    "full_name": "moomerman/libcluster_tailscale",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "jshmrtn/email_checker",
+    "stargazers_count": 55,
+    "open_issues_count": 1,
+    "forks_count": 13
+  },
+  {
+    "full_name": "ferd/pobox",
+    "stargazers_count": 309,
+    "open_issues_count": 2,
+    "forks_count": 34
+  },
+  {
+    "full_name": "tleef/zbang",
+    "stargazers_count": 14,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 42759,
-    "open_issues_count": 973,
-    "forks_count": 3610
+    "stargazers_count": 43532,
+    "open_issues_count": 984,
+    "forks_count": 3634
   },
   {
     "full_name": "bigardone/live_view_patterns",
@@ -13,7 +79,7 @@
   },
   {
     "full_name": "elixir-nx/bumblebee",
-    "stargazers_count": 679,
+    "stargazers_count": 684,
     "open_issues_count": 26,
     "forks_count": 30
   },
@@ -25,7 +91,7 @@
   },
   {
     "full_name": "elixir-nx/tokenizers",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -37,13 +103,13 @@
   },
   {
     "full_name": "gm3dmo/the-power",
-    "stargazers_count": 71,
-    "open_issues_count": 11,
+    "stargazers_count": 72,
+    "open_issues_count": 10,
     "forks_count": 12
   },
   {
     "full_name": "drobakowski/awesome-erlang",
-    "stargazers_count": 1483,
+    "stargazers_count": 1484,
     "open_issues_count": 23,
     "forks_count": 204
   },
@@ -61,7 +127,7 @@
   },
   {
     "full_name": "elixir-image/image",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 2,
     "forks_count": 20
   },
@@ -80,13 +146,13 @@
   {
     "full_name": "emadalam/mahaul",
     "stargazers_count": 18,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "titzer/virgil",
-    "stargazers_count": 728,
-    "open_issues_count": 24,
+    "stargazers_count": 732,
+    "open_issues_count": 23,
     "forks_count": 19
   },
   {
@@ -112,71 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "LivewareProblems/Orion",
-    "stargazers_count": 98,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Appliscale/xprof",
-    "stargazers_count": 267,
-    "open_issues_count": 51,
-    "forks_count": 30
-  },
-  {
-    "full_name": "americanexpress/jest-image-snapshot",
-    "stargazers_count": 3579,
-    "open_issues_count": 24,
-    "forks_count": 204
-  },
-  {
-    "full_name": "americanexpress/parrot",
-    "stargazers_count": 126,
-    "open_issues_count": 35,
-    "forks_count": 24
-  },
-  {
-    "full_name": "dwyl/mvp",
-    "stargazers_count": 59,
-    "open_issues_count": 30,
-    "forks_count": 2
-  },
-  {
-    "full_name": "felt/ultimate-elixir-ci",
-    "stargazers_count": 75,
-    "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "headwayio/lights-out",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 3268,
-    "open_issues_count": 5,
-    "forks_count": 92
-  },
-  {
-    "full_name": "jmforsythe/Git-Heat-Map",
-    "stargazers_count": 918,
-    "open_issues_count": 2,
-    "forks_count": 38
-  },
-  {
-    "full_name": "PJUllrich/live_ex",
-    "stargazers_count": 58,
-    "open_issues_count": 4,
-    "forks_count": 7
-  },
-  {
-    "full_name": "absinthe-graphql/absinthe_phoenix",
-    "stargazers_count": 278,
-    "open_issues_count": 24,
-    "forks_count": 75
   }
 ]
