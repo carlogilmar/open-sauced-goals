@@ -7,7 +7,7 @@
   },
   {
     "full_name": "SophieDeBenedetto/stream_chat",
-    "stargazers_count": 8,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "gov4git/gov4git",
-    "stargazers_count": 39,
+    "stargazers_count": 42,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "clojerl/clojerl",
-    "stargazers_count": 1592,
+    "stargazers_count": 1593,
     "open_issues_count": 8,
     "forks_count": 36
   },
@@ -56,30 +56,30 @@
   {
     "full_name": "atomvm/AtomVM",
     "stargazers_count": 1128,
-    "open_issues_count": 68,
+    "open_issues_count": 69,
     "forks_count": 71
   },
   {
     "full_name": "abo-abo/lispy",
-    "stargazers_count": 1102,
+    "stargazers_count": 1106,
     "open_issues_count": 138,
     "forks_count": 120
   },
   {
     "full_name": "bbatsov/clojure-style-guide",
-    "stargazers_count": 3934,
+    "stargazers_count": 3935,
     "open_issues_count": 42,
     "forks_count": 276
   },
   {
     "full_name": "moomerman/libcluster_tailscale",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "jshmrtn/email_checker",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 44488,
-    "open_issues_count": 998,
-    "forks_count": 3725
+    "stargazers_count": 45137,
+    "open_issues_count": 1002,
+    "forks_count": 3769
   },
   {
     "full_name": "bigardone/live_view_patterns",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "elixir-nx/bumblebee",
-    "stargazers_count": 708,
-    "open_issues_count": 26,
-    "forks_count": 31
+    "stargazers_count": 716,
+    "open_issues_count": 28,
+    "forks_count": 32
   },
   {
     "full_name": "sockbot/elixir-starter-battlesnake",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "elixir-nx/tokenizers",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "drobakowski/awesome-erlang",
-    "stargazers_count": 1489,
+    "stargazers_count": 1490,
     "open_issues_count": 23,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "milmazz/dist_sys",
@@ -164,8 +164,8 @@
   {
     "full_name": "ExHammer/hammer-backend-redis",
     "stargazers_count": 26,
-    "open_issues_count": 4,
-    "forks_count": 27
+    "open_issues_count": 5,
+    "forks_count": 28
   },
   {
     "full_name": "doma-engineering/goo",
