@@ -1,15 +1,45 @@
 [
   {
+    "full_name": "adobe/elixir-styler",
+    "stargazers_count": 40,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "davydog187/ecto_range",
+    "stargazers_count": 17,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "elixir-plug/plug",
+    "stargazers_count": 2633,
+    "open_issues_count": 5,
+    "forks_count": 560
+  },
+  {
+    "full_name": "git/git-scm.com",
+    "stargazers_count": 2040,
+    "open_issues_count": 40,
+    "forks_count": 1301
+  },
+  {
+    "full_name": "elixir-gettext/gettext",
+    "stargazers_count": 401,
+    "open_issues_count": 4,
+    "forks_count": 84
+  },
+  {
     "full_name": "beam-telemetry/telemetry",
-    "stargazers_count": 808,
+    "stargazers_count": 809,
     "open_issues_count": 7,
     "forks_count": 62
   },
   {
     "full_name": "phoenixframework/phoenix_html",
-    "stargazers_count": 338,
+    "stargazers_count": 340,
     "open_issues_count": 6,
-    "forks_count": 206
+    "forks_count": 207
   },
   {
     "full_name": "AlexanderKaraberov/Erlang-BEAM-Links",
@@ -19,8 +49,8 @@
   },
   {
     "full_name": "bluzky/orangecms",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
+    "stargazers_count": 10,
+    "open_issues_count": 12,
     "forks_count": 0
   },
   {
@@ -31,13 +61,13 @@
   },
   {
     "full_name": "whitfin/cachex",
-    "stargazers_count": 1326,
-    "open_issues_count": 7,
+    "stargazers_count": 1327,
+    "open_issues_count": 6,
     "forks_count": 86
   },
   {
     "full_name": "christhekeele/matcha",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 7,
     "forks_count": 4
   },
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "SophieDeBenedetto/stream_chat",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -61,25 +91,25 @@
   },
   {
     "full_name": "gov4git/gov4git",
-    "stargazers_count": 54,
+    "stargazers_count": 57,
     "open_issues_count": 5,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "ArthurClemens/primer_live",
     "stargazers_count": 61,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "clojerl/clojerl",
-    "stargazers_count": 1596,
+    "stargazers_count": 1597,
     "open_issues_count": 8,
     "forks_count": 36
   },
   {
     "full_name": "lfe/lfe",
-    "stargazers_count": 2166,
+    "stargazers_count": 2165,
     "open_issues_count": 41,
     "forks_count": 135
   },
@@ -97,25 +127,25 @@
   },
   {
     "full_name": "atomvm/AtomVM",
-    "stargazers_count": 1130,
-    "open_issues_count": 70,
-    "forks_count": 71
+    "stargazers_count": 1135,
+    "open_issues_count": 69,
+    "forks_count": 70
   },
   {
     "full_name": "abo-abo/lispy",
-    "stargazers_count": 1108,
-    "open_issues_count": 142,
+    "stargazers_count": 1109,
+    "open_issues_count": 147,
     "forks_count": 120
   },
   {
     "full_name": "bbatsov/clojure-style-guide",
-    "stargazers_count": 3934,
+    "stargazers_count": 3935,
     "open_issues_count": 42,
     "forks_count": 276
   },
   {
     "full_name": "moomerman/libcluster_tailscale",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 45748,
-    "open_issues_count": 1007,
-    "forks_count": 3808
+    "stargazers_count": 45930,
+    "open_issues_count": 1015,
+    "forks_count": 3828
   },
   {
     "full_name": "bigardone/live_view_patterns",
     "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "elixir-nx/bumblebee",
-    "stargazers_count": 730,
-    "open_issues_count": 24,
-    "forks_count": 34
-  },
-  {
-    "full_name": "sockbot/elixir-starter-battlesnake",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "elixir-nx/tokenizers",
-    "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Allyedge/allydb",
-    "stargazers_count": 29,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "gm3dmo/the-power",
-    "stargazers_count": 72,
-    "open_issues_count": 10,
-    "forks_count": 12
   }
 ]
