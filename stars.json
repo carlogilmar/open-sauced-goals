@@ -1,13 +1,13 @@
 [
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 167,
+    "stargazers_count": 170,
     "open_issues_count": 2,
     "forks_count": 34
   },
   {
     "full_name": "doorgan/channel_handler",
-    "stargazers_count": 33,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4119,
-    "open_issues_count": 122,
-    "forks_count": 248
+    "stargazers_count": 4179,
+    "open_issues_count": 118,
+    "forks_count": 252
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 24563,
-    "open_issues_count": 878,
-    "forks_count": 1223
+    "stargazers_count": 24599,
+    "open_issues_count": 877,
+    "forks_count": 1224
   },
   {
     "full_name": "evadne/emporium",
@@ -79,31 +79,31 @@
   },
   {
     "full_name": "gen-smtp/gen_smtp",
-    "stargazers_count": 646,
+    "stargazers_count": 648,
     "open_issues_count": 29,
     "forks_count": 261
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 128,
-    "open_issues_count": 2,
+    "stargazers_count": 130,
+    "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "elixir-tools/credo-language-server",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 8,
     "forks_count": 4
   },
   {
     "full_name": "aviacommerce/avia",
-    "stargazers_count": 496,
+    "stargazers_count": 497,
     "open_issues_count": 45,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "jellyfish-dev/jellyfish",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -115,32 +115,32 @@
   },
   {
     "full_name": "WhatsApp/erlfuzz",
-    "stargazers_count": 102,
+    "stargazers_count": 104,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "embark-theme/vim",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "inferno-os/inferno-os",
-    "stargazers_count": 394,
+    "stargazers_count": 396,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "supabase/supavisor",
-    "stargazers_count": 679,
-    "open_issues_count": 14,
-    "forks_count": 12
+    "stargazers_count": 685,
+    "open_issues_count": 12,
+    "forks_count": 13
   },
   {
     "full_name": "adobe/elixir-styler",
-    "stargazers_count": 203,
-    "open_issues_count": 3,
+    "stargazers_count": 207,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "elixir-plug/plug",
-    "stargazers_count": 2647,
+    "stargazers_count": 2649,
     "open_issues_count": 6,
     "forks_count": 563
   },
   {
     "full_name": "git/git-scm.com",
-    "stargazers_count": 2048,
+    "stargazers_count": 2051,
     "open_issues_count": 41,
-    "forks_count": 1307
+    "forks_count": 1308
   },
   {
     "full_name": "elixir-gettext/gettext",
