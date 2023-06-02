@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "newspeaklanguage/newspeak",
+    "stargazers_count": 103,
+    "open_issues_count": 35,
+    "forks_count": 10
+  },
+  {
+    "full_name": "OpenSmalltalk/opensmalltalk-vm",
+    "stargazers_count": 496,
+    "open_issues_count": 111,
+    "forks_count": 104
+  },
+  {
+    "full_name": "squeak-smalltalk/squeak-app",
+    "stargazers_count": 35,
+    "open_issues_count": 7,
+    "forks_count": 8
+  },
+  {
+    "full_name": "princemaple/dg",
+    "stargazers_count": 33,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "feenkcom/gtoolkit",
+    "stargazers_count": 933,
+    "open_issues_count": 238,
+    "forks_count": 43
+  },
+  {
     "full_name": "aerosol/decompilerl",
     "stargazers_count": 36,
     "open_issues_count": 2,
@@ -7,21 +37,21 @@
   },
   {
     "full_name": "erlang/rebar3",
-    "stargazers_count": 1553,
+    "stargazers_count": 1552,
     "open_issues_count": 172,
     "forks_count": 498
   },
   {
     "full_name": "ipvm-wg/homestar",
     "stargazers_count": 28,
-    "open_issues_count": 35,
+    "open_issues_count": 33,
     "forks_count": 2
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 176,
-    "open_issues_count": 3,
-    "forks_count": 36
+    "stargazers_count": 178,
+    "open_issues_count": 5,
+    "forks_count": 37
   },
   {
     "full_name": "doorgan/channel_handler",
@@ -55,7 +85,7 @@
   },
   {
     "full_name": "dashbitco/nimble_csv",
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 1,
     "forks_count": 50
   },
@@ -73,15 +103,15 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4348,
-    "open_issues_count": 118,
+    "stargazers_count": 4361,
+    "open_issues_count": 112,
     "forks_count": 273
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 24838,
-    "open_issues_count": 901,
-    "forks_count": 1243
+    "stargazers_count": 24901,
+    "open_issues_count": 897,
+    "forks_count": 1247
   },
   {
     "full_name": "evadne/emporium",
@@ -92,7 +122,7 @@
   {
     "full_name": "swoosh/phoenix_swoosh",
     "stargazers_count": 237,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 30
   },
   {
@@ -103,15 +133,15 @@
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 140,
+    "stargazers_count": 145,
     "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "elixir-tools/credo-language-server",
-    "stargazers_count": 50,
-    "open_issues_count": 8,
-    "forks_count": 5
+    "stargazers_count": 52,
+    "open_issues_count": 7,
+    "forks_count": 6
   },
   {
     "full_name": "aviacommerce/avia",
@@ -133,13 +163,13 @@
   },
   {
     "full_name": "WhatsApp/erlfuzz",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "embark-theme/vim",
-    "stargazers_count": 556,
+    "stargazers_count": 557,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 403,
     "open_issues_count": 1,
     "forks_count": 31
-  },
-  {
-    "full_name": "supabase/supavisor",
-    "stargazers_count": 700,
-    "open_issues_count": 16,
-    "forks_count": 18
-  },
-  {
-    "full_name": "adobe/elixir-styler",
-    "stargazers_count": 224,
-    "open_issues_count": 3,
-    "forks_count": 3
-  },
-  {
-    "full_name": "davydog187/ecto_range",
-    "stargazers_count": 19,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "elixir-plug/plug",
-    "stargazers_count": 2659,
-    "open_issues_count": 7,
-    "forks_count": 564
-  },
-  {
-    "full_name": "git/git-scm.com",
-    "stargazers_count": 2057,
-    "open_issues_count": 43,
-    "forks_count": 1311
   }
 ]
