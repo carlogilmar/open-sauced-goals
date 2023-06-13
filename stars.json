@@ -19,14 +19,14 @@
   },
   {
     "full_name": "princemaple/dg",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 933,
-    "open_issues_count": 238,
+    "stargazers_count": 935,
+    "open_issues_count": 240,
     "forks_count": 44
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "erlang/rebar3",
-    "stargazers_count": 1555,
-    "open_issues_count": 172,
-    "forks_count": 498
+    "stargazers_count": 1557,
+    "open_issues_count": 173,
+    "forks_count": 497
   },
   {
     "full_name": "ipvm-wg/homestar",
-    "stargazers_count": 30,
-    "open_issues_count": 33,
+    "stargazers_count": 33,
+    "open_issues_count": 34,
     "forks_count": 2
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 5,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "doorgan/channel_handler",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "sasa1977/site_encrypt",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 10,
     "forks_count": 25
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "dashbitco/nimble_csv",
-    "stargazers_count": 699,
+    "stargazers_count": 700,
     "open_issues_count": 1,
     "forks_count": 50
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "PJUllrich/pragprog-book-tables",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4379,
-    "open_issues_count": 100,
+    "stargazers_count": 4384,
+    "open_issues_count": 97,
     "forks_count": 278
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 24975,
-    "open_issues_count": 917,
-    "forks_count": 1249
+    "stargazers_count": 25030,
+    "open_issues_count": 914,
+    "forks_count": 1252
   },
   {
     "full_name": "evadne/emporium",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "swoosh/phoenix_swoosh",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 2,
     "forks_count": 30
   },
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 147,
-    "open_issues_count": 7,
+    "stargazers_count": 146,
+    "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "elixir-tools/credo-language-server",
     "stargazers_count": 58,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "embark-theme/vim",
-    "stargazers_count": 558,
+    "stargazers_count": 560,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "inferno-os/inferno-os",
     "stargazers_count": 405,
-    "open_issues_count": 1,
-    "forks_count": 31
+    "open_issues_count": 2,
+    "forks_count": 33
   }
 ]
