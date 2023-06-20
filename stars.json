@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "etylizer/etylizer",
+    "stargazers_count": 4,
+    "open_issues_count": 27,
+    "forks_count": 1
+  },
+  {
     "full_name": "visualpartnership/empexconf",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "OpenSmalltalk/opensmalltalk-vm",
-    "stargazers_count": 497,
+    "stargazers_count": 496,
     "open_issues_count": 110,
     "forks_count": 104
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 936,
-    "open_issues_count": 241,
+    "stargazers_count": 937,
+    "open_issues_count": 238,
     "forks_count": 44
   },
   {
@@ -49,25 +55,25 @@
   },
   {
     "full_name": "erlang/rebar3",
-    "stargazers_count": 1558,
+    "stargazers_count": 1560,
     "open_issues_count": 174,
-    "forks_count": 497
+    "forks_count": 498
   },
   {
     "full_name": "ipvm-wg/homestar",
-    "stargazers_count": 37,
-    "open_issues_count": 33,
+    "stargazers_count": 38,
+    "open_issues_count": 34,
     "forks_count": 2
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 184,
-    "open_issues_count": 7,
-    "forks_count": 42
+    "stargazers_count": 187,
+    "open_issues_count": 3,
+    "forks_count": 43
   },
   {
     "full_name": "doorgan/channel_handler",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -97,33 +103,33 @@
   },
   {
     "full_name": "dashbitco/nimble_csv",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 1,
     "forks_count": 50
   },
   {
     "full_name": "epgsql/pooler",
-    "stargazers_count": 296,
+    "stargazers_count": 295,
     "open_issues_count": 5,
     "forks_count": 84
   },
   {
     "full_name": "PJUllrich/pragprog-book-tables",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4408,
-    "open_issues_count": 98,
+    "stargazers_count": 4420,
+    "open_issues_count": 99,
     "forks_count": 277
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 25173,
-    "open_issues_count": 906,
-    "forks_count": 1255
+    "stargazers_count": 25237,
+    "open_issues_count": 904,
+    "forks_count": 1259
   },
   {
     "full_name": "evadne/emporium",
@@ -133,19 +139,19 @@
   },
   {
     "full_name": "swoosh/phoenix_swoosh",
-    "stargazers_count": 240,
+    "stargazers_count": 242,
     "open_issues_count": 2,
     "forks_count": 30
   },
   {
     "full_name": "gen-smtp/gen_smtp",
-    "stargazers_count": 651,
+    "stargazers_count": 650,
     "open_issues_count": 30,
-    "forks_count": 261
+    "forks_count": 260
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 9,
     "forks_count": 16
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "aviacommerce/avia",
-    "stargazers_count": 502,
+    "stargazers_count": 504,
     "open_issues_count": 45,
     "forks_count": 113
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "WhatsApp/erlfuzz",
-    "stargazers_count": 108,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
