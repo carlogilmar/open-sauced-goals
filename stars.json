@@ -1,7 +1,7 @@
 [
   {
     "full_name": "etylizer/etylizer",
-    "stargazers_count": 4,
+    "stargazers_count": 7,
     "open_issues_count": 27,
     "forks_count": 1
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "OpenSmalltalk/opensmalltalk-vm",
-    "stargazers_count": 496,
+    "stargazers_count": 499,
     "open_issues_count": 110,
     "forks_count": 104
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 937,
-    "open_issues_count": 238,
+    "stargazers_count": 938,
+    "open_issues_count": 233,
     "forks_count": 44
   },
   {
@@ -56,26 +56,26 @@
   {
     "full_name": "erlang/rebar3",
     "stargazers_count": 1560,
-    "open_issues_count": 174,
-    "forks_count": 498
+    "open_issues_count": 173,
+    "forks_count": 499
   },
   {
     "full_name": "ipvm-wg/homestar",
-    "stargazers_count": 38,
-    "open_issues_count": 34,
-    "forks_count": 2
+    "stargazers_count": 39,
+    "open_issues_count": 38,
+    "forks_count": 3
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 187,
-    "open_issues_count": 3,
-    "forks_count": 43
+    "stargazers_count": 192,
+    "open_issues_count": 2,
+    "forks_count": 45
   },
   {
     "full_name": "doorgan/channel_handler",
     "stargazers_count": 40,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "sasa1977/site_encrypt",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "adidas/adidas-devops-maturity-framework",
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 5,
     "forks_count": 86
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "PJUllrich/pragprog-book-tables",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4420,
-    "open_issues_count": 99,
-    "forks_count": 277
+    "stargazers_count": 4424,
+    "open_issues_count": 106,
+    "forks_count": 276
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 25237,
-    "open_issues_count": 904,
-    "forks_count": 1259
+    "stargazers_count": 25280,
+    "open_issues_count": 913,
+    "forks_count": 1262
   },
   {
     "full_name": "evadne/emporium",
@@ -151,25 +151,25 @@
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 9,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "elixir-tools/credo-language-server",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "aviacommerce/avia",
-    "stargazers_count": 504,
+    "stargazers_count": 505,
     "open_issues_count": 45,
     "forks_count": 113
   },
   {
     "full_name": "jellyfish-dev/jellyfish",
-    "stargazers_count": 39,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 0
   },
