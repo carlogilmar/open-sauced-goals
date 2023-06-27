@@ -43,8 +43,8 @@
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 938,
-    "open_issues_count": 233,
+    "stargazers_count": 939,
+    "open_issues_count": 236,
     "forks_count": 44
   },
   {
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "erlang/rebar3",
-    "stargazers_count": 1560,
-    "open_issues_count": 173,
+    "stargazers_count": 1563,
+    "open_issues_count": 175,
     "forks_count": 499
   },
   {
     "full_name": "ipvm-wg/homestar",
-    "stargazers_count": 39,
-    "open_issues_count": 38,
+    "stargazers_count": 40,
+    "open_issues_count": 44,
     "forks_count": 3
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 192,
+    "stargazers_count": 194,
     "open_issues_count": 2,
     "forks_count": 45
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "sasa1977/site_encrypt",
-    "stargazers_count": 413,
+    "stargazers_count": 415,
     "open_issues_count": 10,
     "forks_count": 25
   },
@@ -87,7 +87,7 @@
     "full_name": "elixir-tools/elixir-tools.dev",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "SullysMustyRuby/elixir_code_standards",
@@ -99,7 +99,7 @@
     "full_name": "adidas/adidas-devops-maturity-framework",
     "stargazers_count": 542,
     "open_issues_count": 5,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "dashbitco/nimble_csv",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4424,
-    "open_issues_count": 106,
-    "forks_count": 276
+    "stargazers_count": 4436,
+    "open_issues_count": 103,
+    "forks_count": 277
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 25280,
-    "open_issues_count": 913,
-    "forks_count": 1262
+    "stargazers_count": 25322,
+    "open_issues_count": 921,
+    "forks_count": 1263
   },
   {
     "full_name": "evadne/emporium",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "swoosh/phoenix_swoosh",
-    "stargazers_count": 242,
+    "stargazers_count": 243,
     "open_issues_count": 2,
     "forks_count": 30
   },
@@ -147,23 +147,23 @@
     "full_name": "gen-smtp/gen_smtp",
     "stargazers_count": 650,
     "open_issues_count": 30,
-    "forks_count": 260
+    "forks_count": 261
   },
   {
     "full_name": "woylie/flop_phoenix",
-    "stargazers_count": 150,
-    "open_issues_count": 9,
+    "stargazers_count": 155,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "elixir-tools/credo-language-server",
-    "stargazers_count": 59,
-    "open_issues_count": 11,
+    "stargazers_count": 60,
+    "open_issues_count": 14,
     "forks_count": 7
   },
   {
     "full_name": "aviacommerce/avia",
-    "stargazers_count": 505,
+    "stargazers_count": 506,
     "open_issues_count": 45,
     "forks_count": 113
   },
