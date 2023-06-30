@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "coryodaniel/k8s",
+    "stargazers_count": 277,
+    "open_issues_count": 10,
+    "forks_count": 43
+  },
+  {
     "full_name": "etylizer/etylizer",
     "stargazers_count": 7,
     "open_issues_count": 27,
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 939,
-    "open_issues_count": 236,
+    "stargazers_count": 942,
+    "open_issues_count": 238,
     "forks_count": 44
   },
   {
@@ -62,14 +68,14 @@
   {
     "full_name": "ipvm-wg/homestar",
     "stargazers_count": 40,
-    "open_issues_count": 44,
+    "open_issues_count": 40,
     "forks_count": 3
   },
   {
     "full_name": "mgallo/openai.ex",
-    "stargazers_count": 194,
-    "open_issues_count": 2,
-    "forks_count": 45
+    "stargazers_count": 196,
+    "open_issues_count": 3,
+    "forks_count": 47
   },
   {
     "full_name": "doorgan/channel_handler",
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4436,
-    "open_issues_count": 103,
-    "forks_count": 277
+    "stargazers_count": 4439,
+    "open_issues_count": 102,
+    "forks_count": 278
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 25322,
-    "open_issues_count": 921,
-    "forks_count": 1263
+    "stargazers_count": 25367,
+    "open_issues_count": 920,
+    "forks_count": 1264
   },
   {
     "full_name": "evadne/emporium",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "elixir-tools/credo-language-server",
-    "stargazers_count": 60,
-    "open_issues_count": 14,
-    "forks_count": 7
+    "stargazers_count": 62,
+    "open_issues_count": 12,
+    "forks_count": 8
   },
   {
     "full_name": "aviacommerce/avia",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "jellyfish-dev/jellyfish",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "GrzegorzKozub/vim-elixirls",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
