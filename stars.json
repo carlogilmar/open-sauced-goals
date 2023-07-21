@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "wiedzmin/nixos-config",
+    "stargazers_count": 31,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "TheFirstAvenger/cobol_to_elixir",
+    "stargazers_count": 82,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "jj1bdx/sshrpc",
+    "stargazers_count": 38,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "cara-lang/compiler",
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "thebugcatcher/adify",
+    "stargazers_count": 7,
+    "open_issues_count": 8,
+    "forks_count": 2
+  },
+  {
     "full_name": "bitwalker/libgraph",
     "stargazers_count": 463,
     "open_issues_count": 20,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "sivsushruth/mixgraph",
@@ -13,7 +43,7 @@
   },
   {
     "full_name": "PacktPublishing/Build-Your-Own-Web-Framework-in-Elixir",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -25,9 +55,9 @@
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 4532,
+    "stargazers_count": 4542,
     "open_issues_count": 63,
-    "forks_count": 198
+    "forks_count": 199
   },
   {
     "full_name": "paulo-ferraz-oliveira/rebar3_checkshell",
@@ -37,7 +67,7 @@
   },
   {
     "full_name": "lexical-lsp/lexical",
-    "stargazers_count": 203,
+    "stargazers_count": 205,
     "open_issues_count": 32,
     "forks_count": 22
   },
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 1346,
+    "stargazers_count": 1348,
     "open_issues_count": 15,
     "forks_count": 17
   },
@@ -61,7 +91,7 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 3889,
+    "stargazers_count": 3904,
     "open_issues_count": 19,
     "forks_count": 396
   },
@@ -74,7 +104,7 @@
   {
     "full_name": "puzza007/katipo",
     "stargazers_count": 119,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 17
   },
   {
@@ -85,37 +115,37 @@
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 42984,
-    "open_issues_count": 3985,
-    "forks_count": 6386
+    "stargazers_count": 43050,
+    "open_issues_count": 3996,
+    "forks_count": 6394
   },
   {
     "full_name": "pentacent/keila",
-    "stargazers_count": 908,
+    "stargazers_count": 909,
     "open_issues_count": 37,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "elixir-tools/next-ls",
-    "stargazers_count": 169,
-    "open_issues_count": 39,
+    "stargazers_count": 176,
+    "open_issues_count": 43,
     "forks_count": 6
   },
   {
     "full_name": "coryodaniel/k8s",
     "stargazers_count": 278,
-    "open_issues_count": 12,
+    "open_issues_count": 10,
     "forks_count": 44
   },
   {
     "full_name": "etylizer/etylizer",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 27,
     "forks_count": 1
   },
   {
     "full_name": "visualpartnership/empexconf",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -133,7 +163,7 @@
   },
   {
     "full_name": "OpenSmalltalk/opensmalltalk-vm",
-    "stargazers_count": 501,
+    "stargazers_count": 503,
     "open_issues_count": 110,
     "forks_count": 104
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 34,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "feenkcom/gtoolkit",
-    "stargazers_count": 953,
-    "open_issues_count": 235,
-    "forks_count": 44
-  },
-  {
-    "full_name": "aerosol/decompilerl",
-    "stargazers_count": 36,
-    "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "erlang/rebar3",
-    "stargazers_count": 1569,
-    "open_issues_count": 178,
-    "forks_count": 501
-  },
-  {
-    "full_name": "ipvm-wg/homestar",
-    "stargazers_count": 42,
-    "open_issues_count": 46,
-    "forks_count": 4
-  },
-  {
-    "full_name": "mgallo/openai.ex",
-    "stargazers_count": 203,
-    "open_issues_count": 4,
-    "forks_count": 47
   }
 ]
