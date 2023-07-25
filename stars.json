@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "akash-akya/vix",
+    "stargazers_count": 117,
+    "open_issues_count": 4,
+    "forks_count": 16
+  },
+  {
+    "full_name": "primocms/primo",
+    "stargazers_count": 1262,
+    "open_issues_count": 28,
+    "forks_count": 205
+  },
+  {
+    "full_name": "backstage/backstage",
+    "stargazers_count": 22672,
+    "open_issues_count": 485,
+    "forks_count": 4312
+  },
+  {
     "full_name": "wiedzmin/nixos-config",
     "stargazers_count": 31,
     "open_issues_count": 0,
@@ -13,13 +31,13 @@
   },
   {
     "full_name": "jj1bdx/sshrpc",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "cara-lang/compiler",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,8 +49,8 @@
   },
   {
     "full_name": "bitwalker/libgraph",
-    "stargazers_count": 463,
-    "open_issues_count": 20,
+    "stargazers_count": 464,
+    "open_issues_count": 21,
     "forks_count": 72
   },
   {
@@ -55,8 +73,8 @@
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 4542,
-    "open_issues_count": 63,
+    "stargazers_count": 4558,
+    "open_issues_count": 57,
     "forks_count": 199
   },
   {
@@ -67,8 +85,8 @@
   },
   {
     "full_name": "lexical-lsp/lexical",
-    "stargazers_count": 205,
-    "open_issues_count": 32,
+    "stargazers_count": 214,
+    "open_issues_count": 33,
     "forks_count": 22
   },
   {
@@ -79,8 +97,8 @@
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 1348,
-    "open_issues_count": 15,
+    "stargazers_count": 1353,
+    "open_issues_count": 14,
     "forks_count": 17
   },
   {
@@ -91,14 +109,14 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 3904,
+    "stargazers_count": 3912,
     "open_issues_count": 19,
-    "forks_count": 396
+    "forks_count": 398
   },
   {
     "full_name": "erlang-ls/vscode",
-    "stargazers_count": 67,
-    "open_issues_count": 24,
+    "stargazers_count": 68,
+    "open_issues_count": 25,
     "forks_count": 23
   },
   {
@@ -115,25 +133,25 @@
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 43050,
-    "open_issues_count": 3996,
-    "forks_count": 6394
+    "stargazers_count": 43149,
+    "open_issues_count": 3992,
+    "forks_count": 6406
   },
   {
     "full_name": "pentacent/keila",
-    "stargazers_count": 909,
-    "open_issues_count": 37,
-    "forks_count": 43
+    "stargazers_count": 913,
+    "open_issues_count": 38,
+    "forks_count": 45
   },
   {
     "full_name": "elixir-tools/next-ls",
-    "stargazers_count": 176,
-    "open_issues_count": 43,
+    "stargazers_count": 182,
+    "open_issues_count": 39,
     "forks_count": 6
   },
   {
     "full_name": "coryodaniel/k8s",
-    "stargazers_count": 278,
+    "stargazers_count": 279,
     "open_issues_count": 10,
     "forks_count": 44
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 104,
     "open_issues_count": 35,
     "forks_count": 9
-  },
-  {
-    "full_name": "OpenSmalltalk/opensmalltalk-vm",
-    "stargazers_count": 503,
-    "open_issues_count": 110,
-    "forks_count": 104
-  },
-  {
-    "full_name": "squeak-smalltalk/squeak-app",
-    "stargazers_count": 36,
-    "open_issues_count": 7,
-    "forks_count": 8
-  },
-  {
-    "full_name": "princemaple/dg",
-    "stargazers_count": 34,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
