@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "flix/flix",
+    "stargazers_count": 1805,
+    "open_issues_count": 426,
+    "forks_count": 126
+  },
+  {
+    "full_name": "RoyalIcing/Orb",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ryotsu/torrex",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "comtihon/mongodb-erlang",
+    "stargazers_count": 334,
+    "open_issues_count": 61,
+    "forks_count": 265
+  },
+  {
+    "full_name": "ostera/wittgenstein",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "liveview-native/ios-tutorial",
     "stargazers_count": 47,
     "open_issues_count": 0,
@@ -13,25 +43,25 @@
   },
   {
     "full_name": "akash-akya/vix",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 4,
     "forks_count": 16
   },
   {
     "full_name": "primocms/primo",
-    "stargazers_count": 1438,
-    "open_issues_count": 28,
-    "forks_count": 235
+    "stargazers_count": 1467,
+    "open_issues_count": 29,
+    "forks_count": 245
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 22740,
-    "open_issues_count": 485,
-    "forks_count": 4328
+    "stargazers_count": 22760,
+    "open_issues_count": 511,
+    "forks_count": 4343
   },
   {
     "full_name": "wiedzmin/nixos-config",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -61,8 +91,8 @@
   },
   {
     "full_name": "bitwalker/libgraph",
-    "stargazers_count": 466,
-    "open_issues_count": 22,
+    "stargazers_count": 468,
+    "open_issues_count": 20,
     "forks_count": 73
   },
   {
@@ -85,8 +115,8 @@
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 4593,
-    "open_issues_count": 65,
+    "stargazers_count": 4608,
+    "open_issues_count": 70,
     "forks_count": 200
   },
   {
@@ -97,9 +127,9 @@
   },
   {
     "full_name": "lexical-lsp/lexical",
-    "stargazers_count": 255,
-    "open_issues_count": 38,
-    "forks_count": 28
+    "stargazers_count": 263,
+    "open_issues_count": 35,
+    "forks_count": 30
   },
   {
     "full_name": "rvirding/structs",
@@ -109,7 +139,7 @@
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 1383,
+    "stargazers_count": 1389,
     "open_issues_count": 14,
     "forks_count": 17
   },
@@ -121,20 +151,20 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 3939,
+    "stargazers_count": 3945,
     "open_issues_count": 19,
-    "forks_count": 398
+    "forks_count": 401
   },
   {
     "full_name": "erlang-ls/vscode",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 26,
     "forks_count": 24
   },
   {
     "full_name": "puzza007/katipo",
     "stargazers_count": 119,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 17
   },
   {
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 43334,
-    "open_issues_count": 4015,
-    "forks_count": 6432
-  },
-  {
-    "full_name": "pentacent/keila",
-    "stargazers_count": 916,
-    "open_issues_count": 38,
-    "forks_count": 46
-  },
-  {
-    "full_name": "elixir-tools/next-ls",
-    "stargazers_count": 198,
-    "open_issues_count": 39,
-    "forks_count": 6
-  },
-  {
-    "full_name": "coryodaniel/k8s",
-    "stargazers_count": 280,
-    "open_issues_count": 11,
-    "forks_count": 44
-  },
-  {
-    "full_name": "etylizer/etylizer",
-    "stargazers_count": 10,
-    "open_issues_count": 27,
-    "forks_count": 1
-  },
-  {
-    "full_name": "visualpartnership/empexconf",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 43456,
+    "open_issues_count": 4027,
+    "forks_count": 6446
   }
 ]
