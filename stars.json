@@ -1,43 +1,55 @@
 [
   {
+    "full_name": "Nebo15/logger_json",
+    "stargazers_count": 204,
+    "open_issues_count": 16,
+    "forks_count": 73
+  },
+  {
+    "full_name": "VeryBigThings/provider",
+    "stargazers_count": 41,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "liveview-native/live_view_native_platform",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 105,
-    "open_issues_count": 4,
+    "stargazers_count": 107,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "supabase/postgres_lsp",
-    "stargazers_count": 1528,
-    "open_issues_count": 4,
-    "forks_count": 13
+    "stargazers_count": 2270,
+    "open_issues_count": 2,
+    "forks_count": 35
   },
   {
     "full_name": "parroty/exvcr",
     "stargazers_count": 668,
-    "open_issues_count": 57,
-    "forks_count": 123
+    "open_issues_count": 58,
+    "forks_count": 125
   },
   {
     "full_name": "flix/flix",
-    "stargazers_count": 1806,
-    "open_issues_count": 428,
+    "stargazers_count": 1808,
+    "open_issues_count": 427,
     "forks_count": 126
   },
   {
     "full_name": "RoyalIcing/Orb",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 40,
+    "open_issues_count": 2,
+    "forks_count": 1
   },
   {
     "full_name": "ryotsu/torrex",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -56,7 +68,7 @@
   {
     "full_name": "liveview-native/ios-tutorial",
     "stargazers_count": 48,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "primocms/primo",
-    "stargazers_count": 1492,
-    "open_issues_count": 26,
-    "forks_count": 260
+    "stargazers_count": 1517,
+    "open_issues_count": 27,
+    "forks_count": 263
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 22798,
-    "open_issues_count": 500,
-    "forks_count": 4355
+    "stargazers_count": 22845,
+    "open_issues_count": 515,
+    "forks_count": 4366
   },
   {
     "full_name": "wiedzmin/nixos-config",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 4628,
-    "open_issues_count": 70,
-    "forks_count": 202
+    "stargazers_count": 4640,
+    "open_issues_count": 63,
+    "forks_count": 203
   },
   {
     "full_name": "paulo-ferraz-oliveira/rebar3_checkshell",
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "lexical-lsp/lexical",
-    "stargazers_count": 270,
-    "open_issues_count": 31,
-    "forks_count": 31
+    "stargazers_count": 277,
+    "open_issues_count": 28,
+    "forks_count": 32
   },
   {
     "full_name": "rvirding/structs",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 1390,
+    "stargazers_count": 1401,
     "open_issues_count": 14,
     "forks_count": 17
-  },
-  {
-    "full_name": "klarna/statsd-erlang",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 3950,
-    "open_issues_count": 19,
-    "forks_count": 402
   }
 ]
