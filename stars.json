@@ -1,9 +1,9 @@
 [
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 38674,
-    "open_issues_count": 533,
-    "forks_count": 1513
+    "stargazers_count": 38765,
+    "open_issues_count": 534,
+    "forks_count": 1518
   },
   {
     "full_name": "parody/flock",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "Nebo15/logger_json",
-    "stargazers_count": 208,
+    "stargazers_count": 209,
     "open_issues_count": 16,
     "forks_count": 75
   },
@@ -37,31 +37,31 @@
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 133,
-    "open_issues_count": 5,
+    "stargazers_count": 138,
+    "open_issues_count": 6,
     "forks_count": 10
   },
   {
     "full_name": "supabase/postgres_lsp",
-    "stargazers_count": 2623,
-    "open_issues_count": 3,
+    "stargazers_count": 2630,
+    "open_issues_count": 4,
     "forks_count": 41
   },
   {
     "full_name": "parroty/exvcr",
-    "stargazers_count": 673,
-    "open_issues_count": 57,
-    "forks_count": 126
+    "stargazers_count": 674,
+    "open_issues_count": 58,
+    "forks_count": 127
   },
   {
     "full_name": "flix/flix",
-    "stargazers_count": 1832,
-    "open_issues_count": 429,
+    "stargazers_count": 1835,
+    "open_issues_count": 431,
     "forks_count": 128
   },
   {
     "full_name": "RoyalIcing/Orb",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 4,
     "forks_count": 1
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "comtihon/mongodb-erlang",
-    "stargazers_count": 335,
+    "stargazers_count": 336,
     "open_issues_count": 61,
     "forks_count": 265
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "primocms/primo",
-    "stargazers_count": 1633,
+    "stargazers_count": 1640,
     "open_issues_count": 31,
-    "forks_count": 313
+    "forks_count": 315
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 23146,
-    "open_issues_count": 505,
-    "forks_count": 4477
+    "stargazers_count": 23179,
+    "open_issues_count": 504,
+    "forks_count": 4494
   },
   {
     "full_name": "wiedzmin/nixos-config",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "bitwalker/libgraph",
-    "stargazers_count": 472,
+    "stargazers_count": 473,
     "open_issues_count": 20,
     "forks_count": 73
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "firezone/firezone",
-    "stargazers_count": 5246,
-    "open_issues_count": 71,
-    "forks_count": 224
+    "stargazers_count": 5263,
+    "open_issues_count": 72,
+    "forks_count": 225
   },
   {
     "full_name": "paulo-ferraz-oliveira/rebar3_checkshell",
