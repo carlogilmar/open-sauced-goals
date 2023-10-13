@@ -1,13 +1,43 @@
 [
   {
+    "full_name": "ueberauth/ueberauth_google",
+    "stargazers_count": 154,
+    "open_issues_count": 8,
+    "forks_count": 84
+  },
+  {
+    "full_name": "akira/exq",
+    "stargazers_count": 1445,
+    "open_issues_count": 26,
+    "forks_count": 177
+  },
+  {
+    "full_name": "gordonguthrie/sevastyanov",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gordonguthrie/literatecodereader",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ash-project/spark",
+    "stargazers_count": 73,
+    "open_issues_count": 14,
+    "forks_count": 15
+  },
+  {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6346,
-    "open_issues_count": 94,
-    "forks_count": 654
+    "stargazers_count": 6362,
+    "open_issues_count": 98,
+    "forks_count": 655
   },
   {
     "full_name": "tanguilp/http_cache",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -19,13 +49,13 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14156,
-    "open_issues_count": 139,
-    "forks_count": 452
+    "stargazers_count": 14176,
+    "open_issues_count": 142,
+    "forks_count": 453
   },
   {
     "full_name": "github/innovationgraph",
-    "stargazers_count": 200,
+    "stargazers_count": 203,
     "open_issues_count": 4,
     "forks_count": 10
   },
@@ -43,8 +73,8 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 39315,
-    "open_issues_count": 540,
+    "stargazers_count": 39374,
+    "open_issues_count": 539,
     "forks_count": 1536
   },
   {
@@ -79,13 +109,13 @@
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 11,
     "forks_count": 10
   },
   {
     "full_name": "supabase/postgres_lsp",
-    "stargazers_count": 2681,
+    "stargazers_count": 2683,
     "open_issues_count": 5,
     "forks_count": 41
   },
@@ -97,13 +127,13 @@
   },
   {
     "full_name": "flix/flix",
-    "stargazers_count": 1854,
-    "open_issues_count": 444,
+    "stargazers_count": 1856,
+    "open_issues_count": 447,
     "forks_count": 129
   },
   {
     "full_name": "RoyalIcing/Orb",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 4,
     "forks_count": 1
   },
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "akash-akya/vix",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 4,
     "forks_count": 17
   },
   {
     "full_name": "primocms/primo",
-    "stargazers_count": 1680,
+    "stargazers_count": 1684,
     "open_issues_count": 31,
-    "forks_count": 339
-  },
-  {
-    "full_name": "backstage/backstage",
-    "stargazers_count": 23449,
-    "open_issues_count": 505,
-    "forks_count": 4573
-  },
-  {
-    "full_name": "wiedzmin/nixos-config",
-    "stargazers_count": 35,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "TheFirstAvenger/cobol_to_elixir",
-    "stargazers_count": 83,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "jj1bdx/sshrpc",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 10
-  },
-  {
-    "full_name": "cara-lang/compiler",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 343
   }
 ]
