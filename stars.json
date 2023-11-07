@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "casouri/valign",
+    "stargazers_count": 405,
+    "open_issues_count": 11,
+    "forks_count": 22
+  },
+  {
+    "full_name": "ueberauth/ueberauth",
+    "stargazers_count": 1521,
+    "open_issues_count": 28,
+    "forks_count": 117
+  },
+  {
     "full_name": "Fault-lang/Fault",
     "stargazers_count": 152,
     "open_issues_count": 4,
@@ -7,21 +19,21 @@
   },
   {
     "full_name": "koordinates/kart",
-    "stargazers_count": 444,
+    "stargazers_count": 449,
     "open_issues_count": 45,
     "forks_count": 37
   },
   {
     "full_name": "visualpartnership/visualthinking",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3598,
+    "stargazers_count": 3603,
     "open_issues_count": 14,
-    "forks_count": 646
+    "forks_count": 648
   },
   {
     "full_name": "O-X-E-Y/oxeylyzer",
@@ -31,13 +43,13 @@
   },
   {
     "full_name": "rdavison/graphite-layout",
-    "stargazers_count": 30,
+    "stargazers_count": 32,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "zsa/qmk_firmware",
-    "stargazers_count": 235,
+    "stargazers_count": 236,
     "open_issues_count": 4,
     "forks_count": 292
   },
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6470,
-    "open_issues_count": 99,
-    "forks_count": 657
+    "stargazers_count": 6488,
+    "open_issues_count": 100,
+    "forks_count": 658
   },
   {
     "full_name": "tanguilp/http_cache",
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14376,
+    "stargazers_count": 14404,
     "open_issues_count": 132,
     "forks_count": 452
   },
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 39772,
+    "stargazers_count": 39862,
     "open_issues_count": 551,
-    "forks_count": 1549
+    "forks_count": 1548
   },
   {
     "full_name": "parody/flock",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 188,
-    "open_issues_count": 9,
+    "stargazers_count": 191,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
     "full_name": "supabase/postgres_lsp",
-    "stargazers_count": 2713,
+    "stargazers_count": 2718,
     "open_issues_count": 4,
     "forks_count": 41
   },
   {
     "full_name": "parroty/exvcr",
-    "stargazers_count": 677,
+    "stargazers_count": 679,
     "open_issues_count": 59,
     "forks_count": 128
-  },
-  {
-    "full_name": "flix/flix",
-    "stargazers_count": 1862,
-    "open_issues_count": 421,
-    "forks_count": 130
-  },
-  {
-    "full_name": "RoyalIcing/Orb",
-    "stargazers_count": 84,
-    "open_issues_count": 5,
-    "forks_count": 1
   }
 ]
