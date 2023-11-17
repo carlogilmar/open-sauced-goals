@@ -13,7 +13,7 @@
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1520,
+    "stargazers_count": 1521,
     "open_issues_count": 29,
     "forks_count": 117
   },
@@ -38,8 +38,8 @@
   {
     "full_name": "malgamves/CommunityWriterPrograms",
     "stargazers_count": 3613,
-    "open_issues_count": 14,
-    "forks_count": 648
+    "open_issues_count": 13,
+    "forks_count": 649
   },
   {
     "full_name": "O-X-E-Y/oxeylyzer",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "zsa/qmk_firmware",
-    "stargazers_count": 238,
-    "open_issues_count": 4,
-    "forks_count": 294
+    "stargazers_count": 240,
+    "open_issues_count": 2,
+    "forks_count": 293
   },
   {
     "full_name": "ueberauth/ueberauth_google",
     "stargazers_count": 157,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 86
   },
   {
@@ -87,11 +87,11 @@
     "full_name": "ash-project/spark",
     "stargazers_count": 75,
     "open_issues_count": 14,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6538,
+    "stargazers_count": 6552,
     "open_issues_count": 101,
     "forks_count": 658
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14437,
-    "open_issues_count": 135,
-    "forks_count": 452
+    "stargazers_count": 14480,
+    "open_issues_count": 134,
+    "forks_count": 455
   },
   {
     "full_name": "github/innovationgraph",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 40027,
-    "open_issues_count": 556,
-    "forks_count": 1551
+    "stargazers_count": 40121,
+    "open_issues_count": 555,
+    "forks_count": 1552
   },
   {
     "full_name": "parody/flock",
@@ -153,7 +153,7 @@
     "full_name": "Nebo15/logger_json",
     "stargazers_count": 212,
     "open_issues_count": 18,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "VeryBigThings/provider",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "supabase/postgres_lsp",
-    "stargazers_count": 2724,
-    "open_issues_count": 5,
+    "stargazers_count": 2729,
+    "open_issues_count": 6,
     "forks_count": 42
   }
 ]
