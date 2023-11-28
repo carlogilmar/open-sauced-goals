@@ -1,9 +1,9 @@
 [
   {
     "full_name": "edgurgel/mimic",
-    "stargazers_count": 292,
-    "open_issues_count": 11,
-    "forks_count": 23
+    "stargazers_count": 293,
+    "open_issues_count": 12,
+    "forks_count": 24
   },
   {
     "full_name": "mpiercy827/downstream",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "casouri/valign",
-    "stargazers_count": 409,
+    "stargazers_count": 411,
     "open_issues_count": 11,
     "forks_count": 22
   },
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "Fault-lang/Fault",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "koordinates/kart",
-    "stargazers_count": 456,
-    "open_issues_count": 47,
+    "stargazers_count": 458,
+    "open_issues_count": 48,
     "forks_count": 38
   },
   {
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3617,
+    "stargazers_count": 3621,
     "open_issues_count": 10,
-    "forks_count": 652
+    "forks_count": 653
   },
   {
     "full_name": "O-X-E-Y/oxeylyzer",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
+    "stargazers_count": 20,
+    "open_issues_count": 2,
     "forks_count": 8
   },
   {
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6595,
-    "open_issues_count": 101,
-    "forks_count": 663
+    "stargazers_count": 6609,
+    "open_issues_count": 102,
+    "forks_count": 665
   },
   {
     "full_name": "tanguilp/http_cache",
     "stargazers_count": 23,
     "open_issues_count": 4,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "AdRoll/rebar3_depup",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14522,
-    "open_issues_count": 138,
-    "forks_count": 460
+    "stargazers_count": 14534,
+    "open_issues_count": 140,
+    "forks_count": 462
   },
   {
     "full_name": "github/innovationgraph",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 40294,
-    "open_issues_count": 557,
-    "forks_count": 1557
+    "stargazers_count": 40393,
+    "open_issues_count": 561,
+    "forks_count": 1563
   },
   {
     "full_name": "parody/flock",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 197,
+    "stargazers_count": 200,
     "open_issues_count": 7,
     "forks_count": 12
   }
