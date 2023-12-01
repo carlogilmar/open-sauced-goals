@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "schmich/marinara",
+    "stargazers_count": 2252,
+    "open_issues_count": 204,
+    "forks_count": 295
+  },
+  {
     "full_name": "edgurgel/mimic",
-    "stargazers_count": 293,
-    "open_issues_count": 12,
+    "stargazers_count": 294,
+    "open_issues_count": 11,
     "forks_count": 24
   },
   {
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "casouri/valign",
-    "stargazers_count": 411,
+    "stargazers_count": 412,
     "open_issues_count": 11,
     "forks_count": 22
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1523,
+    "stargazers_count": 1526,
     "open_issues_count": 31,
     "forks_count": 118
   },
@@ -31,8 +37,8 @@
   },
   {
     "full_name": "koordinates/kart",
-    "stargazers_count": 458,
-    "open_issues_count": 48,
+    "stargazers_count": 462,
+    "open_issues_count": 47,
     "forks_count": 38
   },
   {
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3621,
+    "stargazers_count": 3622,
     "open_issues_count": 10,
     "forks_count": 653
   },
@@ -63,7 +69,7 @@
     "full_name": "zsa/qmk_firmware",
     "stargazers_count": 240,
     "open_issues_count": 2,
-    "forks_count": 295
+    "forks_count": 296
   },
   {
     "full_name": "ueberauth/ueberauth_google",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6609,
-    "open_issues_count": 102,
-    "forks_count": 665
+    "stargazers_count": 6630,
+    "open_issues_count": 103,
+    "forks_count": 664
   },
   {
     "full_name": "tanguilp/http_cache",
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14534,
+    "stargazers_count": 14560,
     "open_issues_count": 140,
     "forks_count": 462
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 40393,
-    "open_issues_count": 561,
-    "forks_count": 1563
+    "stargazers_count": 40462,
+    "open_issues_count": 565,
+    "forks_count": 1564
   },
   {
     "full_name": "parody/flock",
@@ -158,8 +164,8 @@
   {
     "full_name": "Nebo15/logger_json",
     "stargazers_count": 212,
-    "open_issues_count": 18,
-    "forks_count": 77
+    "open_issues_count": 19,
+    "forks_count": 78
   },
   {
     "full_name": "VeryBigThings/provider",
@@ -170,13 +176,7 @@
   {
     "full_name": "liveview-native/live_view_native_platform",
     "stargazers_count": 6,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "liveview-native/live_view_native",
-    "stargazers_count": 200,
-    "open_issues_count": 7,
-    "forks_count": 12
   }
 ]
