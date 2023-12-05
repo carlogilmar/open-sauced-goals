@@ -1,7 +1,7 @@
 [
   {
     "full_name": "schmich/marinara",
-    "stargazers_count": 2252,
+    "stargazers_count": 2253,
     "open_issues_count": 204,
     "forks_count": 295
   },
@@ -20,13 +20,13 @@
   {
     "full_name": "casouri/valign",
     "stargazers_count": 412,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 22
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1526,
-    "open_issues_count": 31,
+    "stargazers_count": 1525,
+    "open_issues_count": 29,
     "forks_count": 118
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "koordinates/kart",
-    "stargazers_count": 462,
-    "open_issues_count": 47,
+    "stargazers_count": 464,
+    "open_issues_count": 48,
     "forks_count": 38
   },
   {
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3622,
+    "stargazers_count": 3624,
     "open_issues_count": 10,
-    "forks_count": 653
+    "forks_count": 654
   },
   {
     "full_name": "O-X-E-Y/oxeylyzer",
-    "stargazers_count": 20,
+    "stargazers_count": 24,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "rdavison/graphite-layout",
-    "stargazers_count": 37,
-    "open_issues_count": 1,
+    "stargazers_count": 57,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -75,11 +75,11 @@
     "full_name": "ueberauth/ueberauth_google",
     "stargazers_count": 157,
     "open_issues_count": 8,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "akira/exq",
-    "stargazers_count": 1453,
+    "stargazers_count": 1454,
     "open_issues_count": 26,
     "forks_count": 179
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "newren/git-filter-repo",
-    "stargazers_count": 6630,
-    "open_issues_count": 103,
-    "forks_count": 664
+    "stargazers_count": 6644,
+    "open_issues_count": 104,
+    "forks_count": 665
   },
   {
     "full_name": "tanguilp/http_cache",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 14560,
-    "open_issues_count": 140,
-    "forks_count": 462
+    "stargazers_count": 14581,
+    "open_issues_count": 141,
+    "forks_count": 463
   },
   {
     "full_name": "github/innovationgraph",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 4,
     "forks_count": 13
   },
@@ -140,14 +140,14 @@
   {
     "full_name": "emacscollective/borg",
     "stargazers_count": 241,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 40462,
-    "open_issues_count": 565,
-    "forks_count": 1564
+    "stargazers_count": 40548,
+    "open_issues_count": 564,
+    "forks_count": 1569
   },
   {
     "full_name": "parody/flock",
